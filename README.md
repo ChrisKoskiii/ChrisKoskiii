@@ -8,9 +8,9 @@
 * 2022 Goals: Publish my first app to the appstore and get a iOS developer position
 * Im looking to collaboarate on any SwiftUI projects!
 
+[ChristopherKoski.com](https://www.christopherkoski.com)
+
 ### Languages & Tools:
 <img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
 <img align="left" alt="Xcode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-[🌎 My Website](https://www.christopherkoski.com)
