@@ -5,7 +5,7 @@
 
 * Passionately working with SwiftUI
 * Fitness enthusiast 🏋️‍♂️
-* 2022 Goals: Publish my first app to the appstore and get a iOS developer position
+* 2022 Goals: Publish my first app to the appstore ✅ and get a iOS developer position
 * Im looking to collaboarate on any SwiftUI projects!
 
 [ChristopherKoski.com](https://www.christopherkoski.com)
